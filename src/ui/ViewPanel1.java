@@ -16,7 +16,7 @@ import util.DatabaseConnector;
 
 /**
  *
- * @author Breeze
+ * @author lenovo
  */
 public class ViewPanel1 extends javax.swing.JPanel {
 
