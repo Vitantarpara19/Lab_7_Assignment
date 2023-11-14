@@ -19,7 +19,7 @@ import util.DatabaseConnector;
 
 /**
  *
- * @author Breeze
+ * @author lenovo
  */
 public class ViewPanel extends javax.swing.JPanel implements Printable {
 
