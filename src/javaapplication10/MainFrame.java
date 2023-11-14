@@ -10,7 +10,7 @@ import ui.ViewPanel;
 
 /**
  *
- * @author Breeze
+ * @author lenovo
  */
 public class MainFrame extends javax.swing.JFrame {
 
