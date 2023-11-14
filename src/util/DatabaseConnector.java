@@ -10,7 +10,7 @@ import model.User;
 
 /**
  * Database Connector class for interacting with database
- * @author breeze
+ * @author lenovo
  */
 public class DatabaseConnector {
 
