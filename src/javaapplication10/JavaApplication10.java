@@ -6,7 +6,7 @@ package javaapplication10;
 
 /**
  *
- * @author Breeze
+ * @author lenovo
  */
 public class JavaApplication10 {
 
